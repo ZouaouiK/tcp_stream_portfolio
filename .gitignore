@@ -20,7 +20,11 @@ program/target
 program/Cargo.lock
 program_portfolio/target
 program_portfolio/Cargo.lock
-#git config --global core.excludesFile ~/.gitignore
+portfolio_rust/.DS_Store
+portfolio_rust/target
+portfolio_rust/Cargo.lock
+
+#git config --global core.excludesFile .gitignore
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
